@@ -14,6 +14,16 @@ namespace TheFridge
             builder.Services.AddDbContext<FridgeContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowReactApp",
+                    policy =>
+                    {
+                        policy.WithOrigins("http://localhost:3000") // Allow requests from the React app
+                              .AllowAnyMethod()
+                              .AllowAnyHeader();
+                    });
+            });
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -28,6 +38,8 @@ namespace TheFridge
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors("AllowReactApp");
 
             app.UseHttpsRedirection();
 

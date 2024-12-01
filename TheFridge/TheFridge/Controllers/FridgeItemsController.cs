@@ -41,12 +41,12 @@ namespace FridgeManagerAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<FridgeItem>> PostFridgeItem(FridgeItem fridgeItem)
         {
-            fridgeItem.Id = 0;
             _context.FridgeItems.Add(fridgeItem);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetFridgeItem), new { id = fridgeItem.Id }, fridgeItem);
         }
+
 
         // PUT: api/fridgeitems/{id}
         [HttpPut("{id}")]

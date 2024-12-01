@@ -140,3 +140,4 @@ D:\digital400_petTask\the_fridge\backend\TheFridge\TheFridge\obj\Debug\net8.0\re
 D:\digital400_petTask\the_fridge\backend\TheFridge\TheFridge\obj\Debug\net8.0\TheFridge.pdb
 D:\digital400_petTask\the_fridge\backend\TheFridge\TheFridge\obj\Debug\net8.0\TheFridge.genruntimeconfig.cache
 D:\digital400_petTask\the_fridge\backend\TheFridge\TheFridge\obj\Debug\net8.0\ref\TheFridge.dll
+D:\digital400_petTask\the_fridge\backend\TheFridge\TheFridge\obj\Debug\net8.0\TheFridge.sourcelink.json
