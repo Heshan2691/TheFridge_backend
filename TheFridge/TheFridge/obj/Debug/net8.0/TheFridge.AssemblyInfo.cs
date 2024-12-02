@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheFridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeaef7941335cbef77df6cfe419d211e6a48a113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb4b9282460e7dc464ab2b961476761df09e3b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheFridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheFridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
