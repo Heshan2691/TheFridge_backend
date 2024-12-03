@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\models\\fridgeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\models\\fridgeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\thefridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\thefridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\data\\fridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\migrations\\20241112154034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\models\\fridgeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\models\\fridgeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\controllers\\fridgeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\controllers\\fridgeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\thefridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\thefridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|d:\\digital400_pettask\\the_fridge\\backend\\thefridge\\thefridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0D1B94-46A0-45D7-92E5-C4E3A5FD4755}|TheFridge\\TheFridge.csproj|solutionrelative:thefridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,13 +56,14 @@
               "RelativeDocumentMoniker": "TheFridge\\Controllers\\FridgeItemsController.cs",
               "ToolTip": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Controllers\\FridgeItemsController.cs",
               "RelativeToolTip": "TheFridge\\Controllers\\FridgeItemsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:38:29.526Z"
+              "WhenOpened": "2024-11-12T15:38:29.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FridgeItem.cs",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Models\\FridgeItem.cs",
               "RelativeDocumentMoniker": "TheFridge\\Models\\FridgeItem.cs",
@@ -70,36 +71,38 @@
               "RelativeToolTip": "TheFridge\\Models\\FridgeItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:22:53.846Z"
+              "WhenOpened": "2024-11-12T15:22:53.846Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Program.cs",
               "RelativeDocumentMoniker": "TheFridge\\Program.cs",
               "ToolTip": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Program.cs",
               "RelativeToolTip": "TheFridge\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T15:26:50.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "20241112154034_InitialCreate.cs",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Migrations\\20241112154034_InitialCreate.cs",
               "RelativeDocumentMoniker": "TheFridge\\Migrations\\20241112154034_InitialCreate.cs",
               "ToolTip": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Migrations\\20241112154034_InitialCreate.cs",
               "RelativeToolTip": "TheFridge\\Migrations\\20241112154034_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:40:34.23Z"
+              "WhenOpened": "2024-11-12T15:40:34.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\appsettings.json",
               "RelativeDocumentMoniker": "TheFridge\\appsettings.json",
@@ -107,11 +110,12 @@
               "RelativeToolTip": "TheFridge\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T15:28:43.362Z"
+              "WhenOpened": "2024-11-12T15:28:43.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FridgeContext.cs",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\Data\\FridgeContext.cs",
               "RelativeDocumentMoniker": "TheFridge\\Data\\FridgeContext.cs",
@@ -119,19 +123,21 @@
               "RelativeToolTip": "TheFridge\\Data\\FridgeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:25:22.602Z"
+              "WhenOpened": "2024-11-12T15:25:22.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TheFridge.csproj",
               "DocumentMoniker": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\TheFridge.csproj",
               "RelativeDocumentMoniker": "TheFridge\\TheFridge.csproj",
               "ToolTip": "D:\\digital400_petTask\\the_fridge\\backend\\TheFridge\\TheFridge\\TheFridge.csproj",
               "RelativeToolTip": "TheFridge\\TheFridge.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T15:24:56.663Z"
+              "WhenOpened": "2024-11-12T15:24:56.663Z",
+              "EditorCaption": ""
             }
           ]
         }
